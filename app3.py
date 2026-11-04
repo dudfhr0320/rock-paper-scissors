@@ -94,7 +94,7 @@ with tab_ai:
  
     model_url = st.text_input(
         "Teachable Machine 모델 URL",
-        value="https://teachablemachine.withgoogle.com/models/pc8DpzFoM/",
+        value="https://teachablemachine.withgoogle.com/models/pk18GQ7ur/",
         placeholder="https://teachablemachine.withgoogle.com/models/xxxxxxxx/",
         key="rps_model_url",
     )
